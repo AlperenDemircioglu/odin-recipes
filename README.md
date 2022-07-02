@@ -8,5 +8,5 @@ I plan to:
     c. p, h1, h2..., em, strong, bold, italic
     d. img src, <a href>
 
--After i complete the task, i will review the status of the goals.
--I have completed both the 1st and the 2nd tasks.
+# After i complete the task, i will review the status of the goals.
+# I have completed both the 1st and the 2nd tasks.
